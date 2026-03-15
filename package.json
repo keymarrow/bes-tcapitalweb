@@ -1,0 +1,17 @@
+{
+  "name": "rock-wealth.co.uk-copy",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Astro wrapper for the mirrored rock-wealth.co.uk site",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "astro": "^4.16.19"
+  }
+}
